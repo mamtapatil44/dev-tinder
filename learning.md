@@ -1,0 +1,16 @@
+- create repo
+- initialize repo
+- install express
+- create server
+- listen to port 3000
+- write request handlers
+- install nodemon and update the scripts in package.json file >need of   nodemon : compile and  automatically reflect changes in browser
+- order/seqence of routes  matters in node js
+-install mongoose : its very handy to csreate schema for mongodb
+-install mango db and get connection by siging up to mangodb web
+-install compass and use same connection string in compass which is generated during sign up process
+- copy that compass connection string and use it in code for databse connection by creating database confih file
+- use mangoose and create data base connection and wrap that connection code in async /await block
+- std parctice: 
+   - first make database connection
+   - listen to server 
