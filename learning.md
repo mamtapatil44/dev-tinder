@@ -14,3 +14,8 @@
 - std parctice: 
    - first make database connection
    - listen to server 
+- To create and use schema :use mongoose documentation
+- Create user schema and model
+- To create instance of user model first import that model in perticular file and then use new keyword to create instance
+- model.save() method is used to add document in the database
+- write signup api and use postmon to test api ,using signup api add user in your databse and check it is working
